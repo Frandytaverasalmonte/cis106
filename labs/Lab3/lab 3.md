@@ -1,7 +1,7 @@
 # Lab 3 Submission
 
 ## Question 1
-![q2](q1.png)
+![q1](q1.png)
 
 ## Question 2
 ![q2](q2.png)
@@ -10,7 +10,8 @@
 ![q3](q3.png)
 
 ## Challenge Question
-![q4](q4.png)
+![challenge question 1](<challenge question 1.png>)
+![challenge question 2](<challenge question 2.png>)
+![challenge question 3](<challenge question 3.png>)
 
-## Challenge Question Script Source code:
-[lab3](lab3-script.sh)
+
