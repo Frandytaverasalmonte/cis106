@@ -6,26 +6,6 @@
 
 ---
 
-# Table of Contents
-
-1. What is a Web Server?
-2. Different Web Server Applications
-3. What is Virtualization?
-4. What is VirtualBox?
-5. What is a Virtual Machine?
-6. Host Machine vs Guest Machine
-7. What is Debian?
-8. What is a Firewall?
-9. What is SSH?
-10. What is an IP Address?
-11. What is a Network Mask?
-12. What is a Port?
-13. What is Port Forwarding?
-14. What is Localhost?
-15. What does 127.0.0.1 represent?
-16. What is Git?
-17. What is GitHub?
-18. Concepts Researched After Reading the Tutorial
 
 ---
 
