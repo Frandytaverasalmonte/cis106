@@ -9,7 +9,7 @@
 ![Practice 2](Prac2.png)
 ![Practice 2](Prac2-2.png)
 ![Practice 2](Prac2-3.png)
-![Practice 2](Prac2-4.png)
+![Practice 2](Prac2.4.png)
 
 ## practice 3
 ![Practice 3](Prac3.png)
